@@ -12,11 +12,18 @@ _These instructions are for configuring the app and your pump if you have a Dana
 
 * Select Menu by tapping the 3 dots in the top right. Select Preferences.
 
-* Select DanaRS Pair New Pump, and click your DanaRS serial number.
+* Select DanaRS Pair New Pump, and click your DanaRS serial number. **Dana RS firmware v3 needs** [additional steps](#additional-pairing-steps-for-dana-rs-with-firmware-v3).
 
   ![AAPS pair Dana RS](../images/AAPS_DanaRSPairing.png)
 
 * Select Pump password and input your password.
+
+### Additional pairing steps for Dana RS with firmware v3
+
+* Enter pairing key 1 and 2 as shown on pump screen.
+* If the pump screen times out, the keys are invalid and you need to do this all over again. 
+* In order to keep the pump screen on, press (-) on the pump every few seconds.
+
 
 ### Default password
 
