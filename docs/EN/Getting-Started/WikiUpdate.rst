@@ -2,6 +2,7 @@ Docs updates & changes
 **************************************************
 October 2020
 ==================================================
+* Dana RS `pairing <../Configuration/DanaRS-Insulin-Pump.html#pairing-pump>`_ & `password change <../Configuration/DanaRS-Insulin-Pump.html#change-password-on-pump>`_
 * `SMS commands - time sync <../Children/SMS-Commands.html>`_
 September 2020
 ==================================================
